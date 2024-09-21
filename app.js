@@ -126,7 +126,7 @@ Complete Exercise 9 in the space below:
 */
 
 
-const allfoods = foods.join('->');
+const allfoods = foods.join(' -> ');
 console.log('Exercise 9 result:', allfoods);
 
 /*
